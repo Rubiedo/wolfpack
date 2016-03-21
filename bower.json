@@ -1,0 +1,18 @@
+{
+  "name": "wolfpack-web",
+  "version": "0.0.0",
+  "authors": [
+    "Stephen Wu <wu.stephend@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
